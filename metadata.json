@@ -1,0 +1,6 @@
+{
+  "name": "Neon Breakout - 經典打磚塊遊戲",
+  "description": "具備多關卡、豐富道具、連擊系統與合成音效的經典霓虹街機打磚塊遊戲。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
